@@ -4,3 +4,4 @@ env/
 *.py[cod]
 *$py.class
 .vscode
+.DS_Store
