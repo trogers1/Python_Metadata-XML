@@ -1,4 +1,4 @@
-__author__ = 'trogers&jkenyon'
+__author__ = 'trogers'
 
 import lxml
 from lxml import etree

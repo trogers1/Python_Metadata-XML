@@ -1,3 +1,5 @@
+__author__ = 'trogers'
+
 import lxml
 from lxml import etree
 import readline
